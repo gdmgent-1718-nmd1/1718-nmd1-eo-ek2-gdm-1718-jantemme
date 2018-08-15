@@ -16,3 +16,16 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+.intro{
+    width: 70%;
+
+}
+
+li{
+    padding-bottom: 12px;
+}
+
+.scenarios{
+    width: 50%;
+    padding-top: 1%;
+}
