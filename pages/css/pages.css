@@ -29,3 +29,26 @@ li{
     width: 50%;
     padding-top: 1%;
 }
+
+.concContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.prosContainer{
+    width: 40%;
+    margin-right: 20px;
+    padding: 0px 10px 10px 20px;
+    background-color: rgb(102, 206, 102);
+    /*border-radius: 10px;*/
+}
+
+.consContainer{
+    width: 40%;
+    padding: 0px 10px 10px 20px;
+    background-color: rgb(201, 101, 101);
+}
+
+a{
+    color-adjust: none;
+}
